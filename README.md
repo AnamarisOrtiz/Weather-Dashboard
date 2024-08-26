@@ -10,6 +10,8 @@ The Weather Dashboard is a web application designed for travelers who want to pl
 
 ![Weather Dashboard Screenshot](weather-dash.png)
 
+[This website can be found here](https://anamarisortiz.github.io/Weather-Dashboard/)
+
 ## User Story
 
 **As a traveler**  
